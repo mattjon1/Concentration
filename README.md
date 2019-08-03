@@ -1,2 +1,3 @@
 # Concentration
-following stanfords swift dev
+concentration game
+following stanfords ios programming
